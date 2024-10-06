@@ -1,5 +1,4 @@
 #test
-2
 n = 8
 count = 0
 maximum = -10**6 - 1
